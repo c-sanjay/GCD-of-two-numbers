@@ -31,7 +31,7 @@ def gcd():
 ```
 
 ## Output:
-![](./gcd.png)
+![output](./gcd.png)
 
 
 ## Result:
